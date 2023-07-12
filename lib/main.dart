@@ -37,11 +37,11 @@ class Main_screen extends StatelessWidget {
             ),
 
             const CircleAvatar(
-              backgroundImage: AssetImage("mages/ima.png"),
+              backgroundImage: AssetImage("mages/ima.jpg"),
               radius: 45,
             ),
             const SizedBox(height: 5,),
-            Text("Meowzie",
+            Text("Roopam Barman",
                 style: GoogleFonts.ysabeau(
                     fontSize: 17
                 )),
