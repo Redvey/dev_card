@@ -37,11 +37,11 @@ class Main_screen extends StatelessWidget {
             ),
 
             const CircleAvatar(
-              backgroundImage: AssetImage("mages/img.png"),
+              backgroundImage: AssetImage("mages/ima.png"),
               radius: 45,
             ),
             const SizedBox(height: 5,),
-            Text("Abhishikta Roy",
+            Text("Meowzie",
                 style: GoogleFonts.ysabeau(
                     fontSize: 17
                 )),
@@ -137,7 +137,7 @@ class Main_screen extends StatelessWidget {
                     width: 2,
                   ),
                   Text(
-                    "rickvey21@gmail.com",
+                    "roopam12cse@gmail.com",
                     style: GoogleFonts.chakraPetch(color:const Color(0xFF39293F) ,
                       fontSize: 15,
                     ),
